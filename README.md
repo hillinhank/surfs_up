@@ -10,4 +10,4 @@
 #### Based on these results, surfing and ice cream in Hawaii seem to be a potentially profitable small business. During both the summer and winter months, this business can operate a full schedule without needing to close shop for climate related reasons i.e. foot-traffic, snow, or even temperatures below 50.
 ### Additional Queries
 #### A query that may be beneficial to run would need to include precipitation data. Many tropical places have seasons of very high precipitation or even monsoons. This should absolutely be taken into account and examined prior to substantial capital investment.
-#### A query that will be necesary to run is an  analysis of the effects of climate change on the island. It may not be wise to sink a large amount of money into a small business only to move and have to leave expensive equipment behind soon after. 
+#### A query that will be necesary to run is an  analysis of the effects of climate change on the island. It may not be wise to sink a large amount of money into a small business only to move and have to leave expensive equipment behind soon after..
